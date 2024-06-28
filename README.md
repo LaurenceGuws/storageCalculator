@@ -1,7 +1,3 @@
-Sure! Here is a README for your project:
-
----
-
 # Storage Calculator
 
 ## Overview
